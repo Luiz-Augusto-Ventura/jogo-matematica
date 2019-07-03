@@ -1,0 +1,20 @@
+C:\Users\luiza\Desktop\JogoMatematica\ProjetoMatematica\bin\Debug\ProjetoMatematica.exe.config
+C:\Users\luiza\Desktop\JogoMatematica\ProjetoMatematica\bin\Debug\ProjetoMatematica.exe
+C:\Users\luiza\Desktop\JogoMatematica\ProjetoMatematica\bin\Debug\ProjetoMatematica.pdb
+C:\Users\luiza\Desktop\JogoMatematica\ProjetoMatematica\obj\Debug\ProjetoMatematica.csprojResolveAssemblyReference.cache
+C:\Users\luiza\Desktop\JogoMatematica\ProjetoMatematica\obj\Debug\ProjetoMatematica.frmMatematica.resources
+C:\Users\luiza\Desktop\JogoMatematica\ProjetoMatematica\obj\Debug\ProjetoMatematica.Properties.Resources.resources
+C:\Users\luiza\Desktop\JogoMatematica\ProjetoMatematica\obj\Debug\ProjetoMatematica.csproj.GenerateResource.Cache
+C:\Users\luiza\Desktop\JogoMatematica\ProjetoMatematica\obj\Debug\ProjetoMatematica.exe
+C:\Users\luiza\Desktop\JogoMatematica\ProjetoMatematica\obj\Debug\ProjetoMatematica.pdb
+C:\Users\luiza\Desktop\JogoMatematica\ProjetoMatematica\obj\Debug\ProjetoMatematica.frmInicio.resources
+C:\Users\luiza\Desktop\Computação\Quarto Período\Linguagens e Técnicas de Programação II\Trabalhos\JogoMatematica\ProjetoMatematica\bin\Debug\ProjetoMatematica.exe.config
+C:\Users\luiza\Desktop\Computação\Quarto Período\Linguagens e Técnicas de Programação II\Trabalhos\JogoMatematica\ProjetoMatematica\bin\Debug\ProjetoMatematica.exe
+C:\Users\luiza\Desktop\Computação\Quarto Período\Linguagens e Técnicas de Programação II\Trabalhos\JogoMatematica\ProjetoMatematica\bin\Debug\ProjetoMatematica.pdb
+C:\Users\luiza\Desktop\Computação\Quarto Período\Linguagens e Técnicas de Programação II\Trabalhos\JogoMatematica\ProjetoMatematica\obj\Debug\ProjetoMatematica.csprojResolveAssemblyReference.cache
+C:\Users\luiza\Desktop\Computação\Quarto Período\Linguagens e Técnicas de Programação II\Trabalhos\JogoMatematica\ProjetoMatematica\obj\Debug\ProjetoMatematica.frmMatematica.resources
+C:\Users\luiza\Desktop\Computação\Quarto Período\Linguagens e Técnicas de Programação II\Trabalhos\JogoMatematica\ProjetoMatematica\obj\Debug\ProjetoMatematica.frmInicio.resources
+C:\Users\luiza\Desktop\Computação\Quarto Período\Linguagens e Técnicas de Programação II\Trabalhos\JogoMatematica\ProjetoMatematica\obj\Debug\ProjetoMatematica.Properties.Resources.resources
+C:\Users\luiza\Desktop\Computação\Quarto Período\Linguagens e Técnicas de Programação II\Trabalhos\JogoMatematica\ProjetoMatematica\obj\Debug\ProjetoMatematica.csproj.GenerateResource.Cache
+C:\Users\luiza\Desktop\Computação\Quarto Período\Linguagens e Técnicas de Programação II\Trabalhos\JogoMatematica\ProjetoMatematica\obj\Debug\ProjetoMatematica.exe
+C:\Users\luiza\Desktop\Computação\Quarto Período\Linguagens e Técnicas de Programação II\Trabalhos\JogoMatematica\ProjetoMatematica\obj\Debug\ProjetoMatematica.pdb
