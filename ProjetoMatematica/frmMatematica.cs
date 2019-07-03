@@ -199,7 +199,8 @@ namespace ProjetoMatematica
         }
 
         private void cmdRanking_Click(object sender, EventArgs e)
-        { 
+        {
+            lbRanking.Items.Clear();
             R = new Ranking(Jogadores);
             Jogador[] Rank = R.Ordena();
             for(int i =0; i < Rank.Length; i++)

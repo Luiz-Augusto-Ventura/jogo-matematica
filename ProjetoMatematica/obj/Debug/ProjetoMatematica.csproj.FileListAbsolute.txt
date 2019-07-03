@@ -18,3 +18,6 @@ C:\Users\luiza\Desktop\Computação\Quarto Período\Linguagens e Técnicas de Pr
 C:\Users\luiza\Desktop\Computação\Quarto Período\Linguagens e Técnicas de Programação II\Trabalhos\JogoMatematica\ProjetoMatematica\obj\Debug\ProjetoMatematica.csproj.GenerateResource.Cache
 C:\Users\luiza\Desktop\Computação\Quarto Período\Linguagens e Técnicas de Programação II\Trabalhos\JogoMatematica\ProjetoMatematica\obj\Debug\ProjetoMatematica.exe
 C:\Users\luiza\Desktop\Computação\Quarto Período\Linguagens e Técnicas de Programação II\Trabalhos\JogoMatematica\ProjetoMatematica\obj\Debug\ProjetoMatematica.pdb
+C:\Users\luiza\Source\Repos\Luiz-Augusto-Ventura\jogo-matematica\ProjetoMatematica\bin\Debug\ProjetoMatematica.exe.config
+C:\Users\luiza\Source\Repos\Luiz-Augusto-Ventura\jogo-matematica\ProjetoMatematica\obj\Debug\ProjetoMatematica.exe
+C:\Users\luiza\Source\Repos\Luiz-Augusto-Ventura\jogo-matematica\ProjetoMatematica\obj\Debug\ProjetoMatematica.pdb
